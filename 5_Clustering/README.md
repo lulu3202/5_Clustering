@@ -27,4 +27,5 @@ Prior to creating model for K-means, number of clusters is evaluated via elbow m
 
 ## Evaluation Metric Results
 	- Obtained 5 clusters of customers that categorize them on the basis of their spending score and annual income to help with targeted marketing 
-![image](https://github.com/user-attachments/assets/157bec3b-f7a2-410e-9e8c-96147f031b95)
+
+![image](https://github.com/user-attachments/assets/5ce63905-6b93-4557-8d24-5b0f910a4b01)
